@@ -16,6 +16,6 @@ In this project, we'll use NLTK, a powerful library for natural language process
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.x installed on your system.
+- Python installed on your system.
 - Basic knowledge of Python and text data preprocessing.
 - NLTK library installed (`pip install nltk`).
